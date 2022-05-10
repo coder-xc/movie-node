@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+/src/*.d.ts
+/dist
+/test
+yarn.lock
+.history
+package-lock.json
+/.vscode
